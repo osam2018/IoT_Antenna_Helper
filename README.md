@@ -17,3 +17,5 @@ Antenna Helper 일명 "AH!" 는 15분 내에 안테나와 장비를 정확히 �
 </ul></br>
 <b>102정보통신단</b>
 &nbsp병장 김장엽, 일병 홍지우
+
+# <a href="https://prezi.com/view/VeutAvfGT3jfDbisQKxL/">Prezi주소</a>
